@@ -25,11 +25,9 @@ See the html-minifier [options](https://github.com/kangax/html-minifier#options-
 
 ### Default Options
 ```javascript
-var defaultOptions = {
-    removeComments: true,
-    collapseWhitespace: true,
-    minifyJS: true
-};
+removeComments: true,
+collapseWhitespace: true,
+minifyJS: true
 ```
 
 #### Example config
