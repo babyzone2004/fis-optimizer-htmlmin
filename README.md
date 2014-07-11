@@ -1,16 +1,12 @@
-fis-optimizer-htmlmin
-=====================
 
-Minify HTML with fis
-
-# fis-optimizer-htmlmin v0.0.1
+# fis-optimizer-htmlmin
 
 > Minify HTML with fis
 
 
 
 ## Getting Started
-This plugin requires fis `~0.8.0`
+This plugin requires fis
 
 If you haven't used [fis](https://github.com/fex-team/fis) before, be sure to check out the [Getting Started](http://fis.baidu.com/docs/beginning/getting-started.html) guide, as it explains how to create a [fis-conf.js](http://fis.baidu.com/docs/api/fis-conf.html) as well as install and use fis plugins. Once you're familiar with that process, you may install this plugin with this command:
 
