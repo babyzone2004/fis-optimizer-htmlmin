@@ -23,9 +23,9 @@ Minifies HTML using [html-minifier](https://github.com/kangax/html-minifier). Bu
 
 See the html-minifier [options](https://github.com/kangax/html-minifier#options-quick-reference).
 
-### default Options
+### Default Options
 ```javascript
-var DefaultOptions = {
+var defaultOptions = {
     removeComments: true,
     collapseWhitespace: true,
     minifyJS: true
